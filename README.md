@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kova1chuk!
+- 👋 Hi, I’m Oleksii!
 - 👀 I’m interested in front end engineering.
 - 🌱 I’m currently learning React.js ecosystem.
 - 💞️ I’m looking to collaborate on cool projects.
