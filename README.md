@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksii!
 - 👀 I’m interested in front end engineering.
-- 🌱 I’m currently learning React.js ecosystem.
+- 🌱 I’m wirking with learning React.js ecosystem.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me mail.to.kovalchuk@gmail.com.
 
