@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Oleksii!
-- 👀 I’m interested in web & mobile engineering.
-- 🌱 I’m wirking with learning React.js ecosystem.
-- 💞️ I’m looking to collaborate on cool projects.
-- 📫 How to reach me mail.to.kovalchuk@gmail.com.
-
-<!---
-kova1chuk/kova1chuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Oleksii**!
+- 👀 I’m passionate about **web** & **mobile engineering**, specializing in creating seamless user experiences.
+- 🌱 Currently diving deep into the **React.js ecosystem**, enhancing my skills in both frontend and backend development.
+- 💞️ Open to collaborating on exciting projects and sharing knowledge with other developers.
+- 📫 You can reach me via email at [mail.to.kovalchuk@gmail.com](mailto:mail.to.kovalchuk@gmail.com).
