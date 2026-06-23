@@ -8,9 +8,7 @@ I've shipped cross-platform mobile apps to both stores, built component librarie
 
 ### 🚀 What I'm building
 
-**Vocairo** — an AI-powered language learning platform I'm building end-to-end: a React Native (Expo) mobile app, a Next.js web app, and a NestJS backend, with its own design system and payment infrastructure. Built around intrinsic motivation and visible skill progression rather than streaks and points.
-
-**Tumli** — a booking assistant powered by a multi-stage LLM pipeline.
+Currently building **AI-powered products across web and mobile** — full-stack, from React Native (Expo) apps and Next.js web to NestJS backends, design systems, and payment infrastructure. I'm especially drawn to products that use LLM pipelines to do something genuinely useful, not just bolt on a chatbot.
 
 ### 🛠️ Tech I work with
 
